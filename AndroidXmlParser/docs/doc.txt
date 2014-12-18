@@ -1,0 +1,17 @@
+待进一步升级：
+	父类控件设置为可编辑式的下拉框，
+	获取文件名用于生成R.layout.XXX
+	生成onclick的swich语句
+	加入若干checkbox，以指定是否生成为：
+		1 listView代码生成模式
+		2  是否需要setListener
+		3 生成的成员变量权限
+	加入样式抽取！！！！！！！！！！！！！！！！！！！！！！！
+	拓展：
+		根据不同的控件生成对应的Listener Adapter
+		遍历目录生成对应的Java类，生成文件输出！
+		对应的资源也可以生成对应的语句 ，如AnimationUtil操作生成Animation对象
+		生成资源报告文件
+		调用POI
+	其他
+		翻译Smali文件？
