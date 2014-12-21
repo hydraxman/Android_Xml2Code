@@ -28,6 +28,7 @@ import java.util.List;
 import javax.swing.JComboBox;
 import javax.swing.JFrame;
 import javax.swing.JPanel;
+import javax.swing.JTabbedPane;
 import javax.swing.UIManager;
 
 import com.mrbu.androidxmlparser.AndroidXmlParser;
@@ -44,6 +45,7 @@ public class DragAndShowFrame extends JFrame {
 	CheckboxGroup cbg;
 	TextArea ta;
 	Button btn;
+	JTabbedPane tab;
 	Button btnForStyle;
 	TextArea taWest;
 	TextField tfClassname;
@@ -54,11 +56,11 @@ public class DragAndShowFrame extends JFrame {
 	JComboBox<String> jcb;
 	public DragAndShowFrame() {
 		tfClassname=new TextField(REMINDER_CLASSNAME ,48);
-		ta=new TextArea("drag file here and then codes will show here",21,75);
+		ta=new TextArea("drag file here and then codes will be shown",21,75);
 		ta.setEditable(false);
 		Font font=new Font(null, Font. BOLD|Font.ITALIC, 15);
 		ta.setFont(font);
-		
+		tab=new JTabbedPane(JTabbedPane.TOP);
 		panel = new JPanel();
 		panelBottom = new JPanel();
 		panelBottom2 = new JPanel();
@@ -97,15 +99,20 @@ public class DragAndShowFrame extends JFrame {
 		});
 		panelBottom.add(panelBottom2,BorderLayout.SOUTH);
 		
-		getContentPane().add(panel, BorderLayout.CENTER);
 		getContentPane().add(panelBottom, BorderLayout.SOUTH);
-		setSize(980, 500);
+		setSize(700, 500);
 		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		setLocation(400, 200);
 		setTitle("代码生成器");
 		initWest();
+		initTabs();
 		drag();
 		setAlwaysOnTop(true);
+	}
+	private void initTabs() {
+		tab.add("代码生成",panel);
+		tab.add("样式抽取",panelWest);
+		getContentPane().add(tab, BorderLayout.CENTER);
 	}
 	private void initWest() {
 		Font font=new Font(null, Font. BOLD|Font.ITALIC, 15);
@@ -122,7 +129,6 @@ public class DragAndShowFrame extends JFrame {
 			}
 		});
 		panelWest.add(btnForStyle,BorderLayout.SOUTH);
-		getContentPane().add(panelWest, BorderLayout.EAST);
 	}
 	public static void main(String[] args) throws Exception
     {
