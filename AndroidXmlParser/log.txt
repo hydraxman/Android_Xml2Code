@@ -1,0 +1,279 @@
+I/Lk      ( 4380): 第一次：清华大学ing
+I/Lk      ( 4380): onSaveInstanceState：Bundle[{STORED_INSTANCE=[com.weix.newapp.leiren.bean.Ing@41d38220, com.weix.newapp.leiren.bean.Ing@422d97c0, com.weix.newapp.leiren.bean.Ing@42db7230, com.weix.newapp.leiren.bean.Ing@41874aa0, com.weix.newapp.leiren.bean.Ing@41874f18, com.weix.newapp.leiren.bean.Ing@4224e820, com.weix.newapp.leiren.bean.Ing@4224eec0, com.weix.newapp.leiren.bean.Ing@4190dde0, com.weix.newapp.leiren.bean.Ing@4190e258, com.weix.newapp.leiren.bean.Ing@4183c350]}]
+I/Lk      ( 4380): 第一次：清华大学ing
+D/AndroidRuntime(26070): 
+D/AndroidRuntime(26070): >>>>>> AndroidRuntime START com.android.internal.os.RuntimeInit <<<<<<
+D/AndroidRuntime(26070): CheckJNI is OFF
+D/AndroidRuntime(26070): language=-Duser.language=zh region=-Duser.region=CN
+D/AndroidRuntime(26070): Calling main entry com.android.commands.pm.Pm
+D/AndroidRuntime(26070): Shutting down VM
+I/AndroidRuntime(26070): NOTE: attach of thread 'Binder Thread #3' failed
+I/Lk      ( 4380): iRet:============================>0
+D/AndroidRuntime(26145): 
+D/AndroidRuntime(26145): >>>>>> AndroidRuntime START com.android.internal.os.RuntimeInit <<<<<<
+D/AndroidRuntime(26145): CheckJNI is OFF
+D/AndroidRuntime(26145): language=-Duser.language=zh region=-Duser.region=CN
+D/AndroidRuntime(26145): Calling main entry com.android.commands.pm.Pm
+D/AndroidRuntime(26145): Shutting down VM
+I/AndroidRuntime(26145): NOTE: attach of thread 'Binder Thread #3' failed
+D/AndroidRuntime(26162): 
+D/AndroidRuntime(26162): >>>>>> AndroidRuntime START com.android.internal.os.RuntimeInit <<<<<<
+D/AndroidRuntime(26162): CheckJNI is OFF
+D/AndroidRuntime(26162): language=-Duser.language=zh region=-Duser.region=CN
+D/AndroidRuntime(26162): Calling main entry com.android.commands.am.Am
+D/AndroidRuntime(26162): Shutting down VM
+I/AndroidRuntime(26162): NOTE: attach of thread 'Binder Thread #3' failed
+D/Settings/Provide(  245): FQxSZH70Fs2GuXiOm9tmWQR4PKRRR3PMV+0IgRShKqcvCPPB1MucTa8zOubcJ1iwBLk7sd5TjTDf
+D/Settings/Provide(  245): Cache populate TOO_LARGE_TO_CACHE_MARKER 617344844dc43653f15cfc5ca9d62b3a SKFLMHLkyh1VBnoQYpep3YSyeabMGIAEZdIzivru4CzA68aDv0wKk13QGyF0oAr6GM22lTgsuLdk
+D/Settings/Provide(  245): DbuxSZnnPkPMM5gq2AGUqMCSmNfNH4s+VG2LkThI3TqyWMa13KYjbbRX7KQLNvgNMGOjx36qFqyZ
+D/Settings/Provide(  245): jWc7fp9n0IC0iI888u7tH3cWqLX5LkhvBZIzVr5NVnDaLe54RasA5pjKGz2I2kXSv2hZXt+8uGKU
+D/Settings/Provide(  245): mV98pAFi7KNDJyiX5CWkBDPI18Y03ZupbrjX/zgCeal/qIiJOdZidmyv2RwgLkEgYoXJXm50uqlK
+D/Settings/Provide(  245): m2aBJgCl1iMVbW0LXDqY+FsmM6nb6kCQZ0o+lGYTbPAgIEg+Drm/3OlxKPfIMdI/xRQJFnDjDyLk
+D/Settings/Provide(  245): Cache populate TOO_LARGE_TO_CACHE_MARKER 102ac6aefa55c9b3a1aceb4666517113 UNLkk+bFQF7bbpC9HYX5lUcAtt4trWxvcMOk5/Mpq0uZ4I4ne5MeC8BCAFUhHRcAcU2tLgRVm0nm
+D/Settings/Provide(  245): xy97bZ1WeDM2loMGFvoNU1MWHUfzEA8ZPx2L86D8l6+DRzLP8xYxnUouu8vsmtBfi6/Lkjal8vmY
+D/Settings/Provide(  245): GJUHU4UHJT6QfyI1Mz5CKfFH5qDKRUBupt5RoT/6+FxDZaLk3AEzOpjdheCWqwliWjDCovVLTImX
+D/Settings/Provide(  245): FQxSZH70Fs2GuXiOm9tmWQR4PKRRR3PMV+0IgRShKqcvCPPB1MucTa8zOubcJ1iwBLk7sd5TjTDf
+D/Settings/Provide(  245): Cache populate TOO_LARGE_TO_CACHE_MARKER 617344844dc43653f15cfc5ca9d62b3a SKFLMHLkyh1VBnoQYpep3YSyeabMGIAEZdIzivru4CzA68aDv0wKk13QGyF0oAr6GM22lTgsuLdk
+D/Settings/Provide(  245): DbuxSZnnPkPMM5gq2AGUqMCSmNfNH4s+VG2LkThI3TqyWMa13KYjbbRX7KQLNvgNMGOjx36qFqyZ
+D/Settings/Provide(  245): jWc7fp9n0IC0iI888u7tH3cWqLX5LkhvBZIzVr5NVnDaLe54RasA5pjKGz2I2kXSv2hZXt+8uGKU
+D/Settings/Provide(  245): mV98pAFi7KNDJyiX5CWkBDPI18Y03ZupbrjX/zgCeal/qIiJOdZidmyv2RwgLkEgYoXJXm50uqlK
+D/Settings/Provide(  245): m2aBJgCl1iMVbW0LXDqY+FsmM6nb6kCQZ0o+lGYTbPAgIEg+Drm/3OlxKPfIMdI/xRQJFnDjDyLk
+D/Settings/Provide(  245): Cache populate TOO_LARGE_TO_CACHE_MARKER 102ac6aefa55c9b3a1aceb4666517113 UNLkk+bFQF7bbpC9HYX5lUcAtt4trWxvcMOk5/Mpq0uZ4I4ne5MeC8BCAFUhHRcAcU2tLgRVm0nm
+D/Settings/Provide(  245): xy97bZ1WeDM2loMGFvoNU1MWHUfzEA8ZPx2L86D8l6+DRzLP8xYxnUouu8vsmtBfi6/Lkjal8vmY
+D/Settings/Provide(  245): GJUHU4UHJT6QfyI1Mz5CKfFH5qDKRUBupt5RoT/6+FxDZaLk3AEzOpjdheCWqwliWjDCovVLTImX
+I/Lk      (26541): iRet:============================>0
+I/Lk      (26541): iFun is :9iRet is :0iSerial is :2
+I/Lk      (26541): notifying change
+I/Lk      (26541): 总共数量是content://com.weix.newapp.leiren.provider.Roster/roster/417
+I/Lk      (26541): 总共数量是content://com.weix.newapp.leiren.provider.Roster/roster/418
+I/Lk      (26541): 总共数量是content://com.weix.newapp.leiren.provider.Roster/roster/419
+I/Lk      (26541): 总共数量是content://com.weix.newapp.leiren.provider.Roster/roster/420
+I/Lk      (26541): 总共数量是content://com.weix.newapp.leiren.provider.Roster/roster/421
+I/Lk      (26541): 总共数量是content://com.weix.newapp.leiren.provider.Roster/roster/422
+I/Lk      (26541): 总共数量是content://com.weix.newapp.leiren.provider.Roster/roster/423
+I/Lk      (26541): 总共数量是content://com.weix.newapp.leiren.provider.Roster/roster/424
+I/Lk      (26541): 总共数量是content://com.weix.newapp.leiren.provider.Roster/roster/425
+I/Lk      (26541): 总共数量是content://com.weix.newapp.leiren.provider.Roster/roster/426
+I/Lk      (26541): 总共数量是content://com.weix.newapp.leiren.provider.Roster/roster/427
+I/Lk      (26541): 总共数量是content://com.weix.newapp.leiren.provider.Roster/roster/428
+I/Lk      (26541): 总共数量是content://com.weix.newapp.leiren.provider.Roster/roster/429
+I/Lk      (26541): 总共数量是content://com.weix.newapp.leiren.provider.Roster/roster/430
+I/Lk      (26541): 总共数量是content://com.weix.newapp.leiren.provider.Roster/roster/431
+I/Lk      (26541): 总共数量是content://com.weix.newapp.leiren.provider.Roster/roster/432
+I/Lk      (26541): 总共数量是content://com.weix.newapp.leiren.provider.Roster/roster/433
+I/Lk      (26541): 总共数量是content://com.weix.newapp.leiren.provider.Roster/roster/434
+I/Lk      (26541): 总共数量是content://com.weix.newapp.leiren.provider.Roster/roster/435
+I/Lk      (26541): 总共数量是content://com.weix.newapp.leiren.provider.Roster/roster/436
+I/Lk      (26541): 总共数量是content://com.weix.newapp.leiren.provider.Roster/roster/437
+I/Lk      (26541): 总共数量是content://com.weix.newapp.leiren.provider.Roster/roster/438
+I/Lk      (26541): 总共数量是content://com.weix.newapp.leiren.provider.Roster/roster/439
+I/Lk      (26541): 总共数量是content://com.weix.newapp.leiren.provider.Roster/roster/440
+I/Lk      (26541): 总共数量是content://com.weix.newapp.leiren.provider.Roster/roster/441
+I/Lk      (26541): 总共数量是content://com.weix.newapp.leiren.provider.Roster/roster/442
+I/Lk      (26541): 总共数量是content://com.weix.newapp.leiren.provider.Roster/roster/443
+I/Lk      (26541): MsgListFragment:onDisappear
+I/Lk      (26541): SnapDrawFragment:onDisappear
+I/Lk      (26541): MinesMapFragment:onDisappear
+I/Lk      (26541): MultiFuncFragment:onDisappear
+I/Lk      (26541): MsgListFragment:onAppear
+I/Lk      (26541): 总共数量是content://com.weix.newapp.leiren.provider.Roster/roster/444
+I/Lk      (26541): before findViewById
+I/Lk      (26541): before onCreateActivityFinish
+I/Lk      (26541): onCreateActivityFinish()===========>MsgListFragment
+I/Lk      (26541): before findViewById
+I/Lk      (26541): before onCreateActivityFinish
+I/Lk      (26541): onCreateActivityFinish()===========>SnapDrawFragment
+I/Lk      (26541): before findViewById
+I/Lk      (26541): before onCreateActivityFinish
+I/Lk      (26541): onCreateActivityFinish()===========>MinesMapFragment
+I/Lk      (26541): 已经完成信息获取
+I/Lk      (26541): 用户信息：Usermsg [id=0, type=0, name=, nickname=慢慢, sex=男, classname=null, area=北京市, avatar=/home/nfs/data/1422338547/1422340719004.jpg, signature=慢，再慢, schoolid=null, school=, classid=null, schoolname=null, birthday=2014-12-29, remarks=null, album=null, company=, bitmap=null, jid=15620600064, acctype=0, acccategory=0, ArticleImgLst=null, isroster=false, omines=674, fmines=0, setmines=0, explosionedmines=0, failuremines=0, earnmines=0, age=0]
+I/Lk      (26541): before findViewById
+I/Lk      (26541): before onCreateActivityFinish
+I/Lk      (26541): onCreateActivityFinish()===========>MultiFuncFragment
+I/Lk      (26541): s.width==========640======= s.height:480
+I/Lk      (26541): notifying change
+I/Lk      (26541): mNoFingMove:false
+I/Lk      (26541): mNoFingMove:false
+I/Lk      (26541): velocityX:-1945.6233
+I/Lk      (26541): mNoFingMove:false
+I/Lk      (26541): MinesMapFragment:onSelected
+I/Lk      (26541): MsgListFragment:onDisappear
+I/Lk      (26541): MinesMapFragment:onAppear
+I/Lk      (26541): mNoFingMove:false
+I/Lk      (26541): mNoFingMove:false
+I/Lk      (26541): mNoFingMove:false
+I/Lk      (26541): velocityX:3257.8652
+I/Lk      (26541): mNoFingMove:false
+I/Lk      (26541): MsgListFragment:onSelected
+I/Lk      (26541): MinesMapFragment:onDisappear
+I/Lk      (26541): MsgListFragment:onAppear
+I/Lk      (26541): mNoFingMove:false
+I/Lk      (26541): mNoFingMove:false
+I/Lk      (26541): mNoFingMove:false
+I/Lk      (26541): velocityX:1348.0457
+I/Lk      (26541): mNoFingMove:false
+I/Lk      (26541): SnapDrawFragment:onSelected
+I/Lk      (26541): MsgListFragment:onDisappear
+I/Lk      (26541): SnapDrawFragment:onAppear
+I/Lk      (26541): mNoFingMove:false
+I/Lk      (26541): mNoFingMove:false
+I/Lk      (26541): mNoFingMove:false
+I/Lk      (26541): velocityX:-2175.483
+I/Lk      (26541): mNoFingMove:false
+I/Lk      (26541): MsgListFragment:onSelected
+I/Lk      (26541): SnapDrawFragment:onDisappear
+I/Lk      (26541): MsgListFragment:onAppear
+I/Lk      (26541): mNoFingMove:false
+I/Lk      (26541): mNoFingMove:false
+I/Lk      (26541): MinesMapFragment:onSelected
+I/Lk      (26541): MsgListFragment:onDisappear
+I/Lk      (26541): MinesMapFragment:onAppear
+I/Lk      (26541): mNoFingMove:false
+I/Lk      (26541): mNoFingMove:false
+I/Lk      (26541): velocityX:2304.9204
+I/Lk      (26541): mNoFingMove:false
+I/Lk      (26541): MsgListFragment:onSelected
+I/Lk      (26541): MinesMapFragment:onDisappear
+I/Lk      (26541): MsgListFragment:onAppear
+I/Lk      (26541): mNoFingMove:false
+I/Lk      (26541): mNoFingMove:false
+I/Lk      (26541): MinesMapFragment:onSelected
+I/Lk      (26541): MsgListFragment:onDisappear
+I/Lk      (26541): MinesMapFragment:onAppear
+I/Lk      (26541): MinesMapFragment:onDisappear
+I/Lk      (26541): MsgListFragment:onAppear
+I/Lk      (26541): MsgListFragment:onSelected
+I/Lk      (26541): mNoFingMove:false
+I/Lk      (26541): mNoFingMove:false
+I/Lk      (26541): mNoFingMove:false
+I/Lk      (26541): velocityX:-2127.0786
+I/Lk      (26541): mNoFingMove:false
+I/Lk      (26541): MinesMapFragment:onSelected
+I/Lk      (26541): MsgListFragment:onDisappear
+I/Lk      (26541): MinesMapFragment:onAppear
+I/Lk      (26541): MinesMapFragment:onDisappear
+I/Lk      (26541): MsgListFragment:onAppear
+I/Lk      (26541): MsgListFragment:onSelected
+I/Lk      (26541): mNoFingMove:false
+I/Lk      (26541): mNoFingMove:false
+I/Lk      (26541): velocityX:-3406.5417
+I/Lk      (26541): mNoFingMove:false
+I/Lk      (26541): MinesMapFragment:onSelected
+I/Lk      (26541): MsgListFragment:onDisappear
+I/Lk      (26541): MinesMapFragment:onAppear
+D/AndroidRuntime(28969): 
+D/AndroidRuntime(28969): >>>>>> AndroidRuntime START com.android.internal.os.RuntimeInit <<<<<<
+D/AndroidRuntime(28969): CheckJNI is OFF
+D/AndroidRuntime(28969): language=-Duser.language=zh region=-Duser.region=CN
+D/AndroidRuntime(28969): Calling main entry com.android.commands.pm.Pm
+D/AndroidRuntime(28969): Shutting down VM
+I/AndroidRuntime(28969): NOTE: attach of thread 'Binder Thread #3' failed
+D/AndroidRuntime(29042): 
+D/AndroidRuntime(29042): >>>>>> AndroidRuntime START com.android.internal.os.RuntimeInit <<<<<<
+D/AndroidRuntime(29042): CheckJNI is OFF
+D/AndroidRuntime(29042): language=-Duser.language=zh region=-Duser.region=CN
+D/AndroidRuntime(29042): Calling main entry com.android.commands.am.Am
+D/AndroidRuntime(29042): Shutting down VM
+I/AndroidRuntime(29042): NOTE: attach of thread 'Binder Thread #3' failed
+I/Lk      (29088): MsgListFragment:onDisappear
+I/Lk      (29088): SnapDrawFragment:onDisappear
+I/Lk      (29088): MinesMapFragment:onDisappear
+I/Lk      (29088): MultiFuncFragment:onDisappear
+I/Lk      (29088): MsgListFragment:onAppear
+I/Lk      (29088): before findViewById
+I/Lk      (29088): before onCreateActivityFinish
+I/Lk      (29088): onCreateActivityFinish()===========>MsgListFragment
+I/Lk      (29088): before findViewById
+I/Lk      (29088): iRet:============================>0
+I/Lk      (29088): before onCreateActivityFinish
+I/Lk      (29088): onCreateActivityFinish()===========>SnapDrawFragment
+I/Lk      (29088): iFun is :9iRet is :0iSerial is :19
+I/Lk      (29088): before findViewById
+I/Lk      (29088): before onCreateActivityFinish
+I/Lk      (29088): onCreateActivityFinish()===========>MinesMapFragment
+I/Lk      (29088): notifying change
+I/Lk      (29088): 总共数量是content://com.weix.newapp.leiren.provider.Roster/roster/445
+I/Lk      (29088): 总共数量是content://com.weix.newapp.leiren.provider.Roster/roster/446
+I/Lk      (29088): 总共数量是content://com.weix.newapp.leiren.provider.Roster/roster/447
+I/Lk      (29088): 总共数量是content://com.weix.newapp.leiren.provider.Roster/roster/448
+I/Lk      (29088): 总共数量是content://com.weix.newapp.leiren.provider.Roster/roster/449
+I/Lk      (29088): 总共数量是content://com.weix.newapp.leiren.provider.Roster/roster/450
+I/Lk      (29088): 总共数量是content://com.weix.newapp.leiren.provider.Roster/roster/451
+I/Lk      (29088): 总共数量是content://com.weix.newapp.leiren.provider.Roster/roster/452
+I/Lk      (29088): 总共数量是content://com.weix.newapp.leiren.provider.Roster/roster/453
+I/Lk      (29088): 总共数量是content://com.weix.newapp.leiren.provider.Roster/roster/454
+I/Lk      (29088): 总共数量是content://com.weix.newapp.leiren.provider.Roster/roster/455
+I/Lk      (29088): 总共数量是content://com.weix.newapp.leiren.provider.Roster/roster/456
+I/Lk      (29088): 总共数量是content://com.weix.newapp.leiren.provider.Roster/roster/457
+I/Lk      (29088): 总共数量是content://com.weix.newapp.leiren.provider.Roster/roster/458
+I/Lk      (29088): 总共数量是content://com.weix.newapp.leiren.provider.Roster/roster/459
+I/Lk      (29088): 总共数量是content://com.weix.newapp.leiren.provider.Roster/roster/460
+I/Lk      (29088): 总共数量是content://com.weix.newapp.leiren.provider.Roster/roster/461
+I/Lk      (29088): 总共数量是content://com.weix.newapp.leiren.provider.Roster/roster/462
+I/Lk      (29088): 总共数量是content://com.weix.newapp.leiren.provider.Roster/roster/463
+I/Lk      (29088): 总共数量是content://com.weix.newapp.leiren.provider.Roster/roster/464
+I/Lk      (29088): 总共数量是content://com.weix.newapp.leiren.provider.Roster/roster/465
+I/Lk      (29088): 总共数量是content://com.weix.newapp.leiren.provider.Roster/roster/466
+I/Lk      (29088): 总共数量是content://com.weix.newapp.leiren.provider.Roster/roster/467
+I/Lk      (29088): 总共数量是content://com.weix.newapp.leiren.provider.Roster/roster/468
+I/Lk      (29088): 总共数量是content://com.weix.newapp.leiren.provider.Roster/roster/469
+I/Lk      (29088): 总共数量是content://com.weix.newapp.leiren.provider.Roster/roster/470
+I/Lk      (29088): 总共数量是content://com.weix.newapp.leiren.provider.Roster/roster/471
+I/Lk      (29088): 总共数量是content://com.weix.newapp.leiren.provider.Roster/roster/472
+I/Lk      (29088): before findViewById
+I/Lk      (29088): before onCreateActivityFinish
+I/Lk      (29088): onCreateActivityFinish()===========>MultiFuncFragment
+I/Lk      (29088): s.width==========640======= s.height:480
+I/Lk      (29088): notifying change
+I/Lk      (29088): mNoFingMove:false
+I/Lk      (29088): mNoFingMove:false
+I/Lk      (29088): velocityX:-3600.6821
+I/Lk      (29088): mNoFingMove:false
+I/Lk      (29088): MinesMapFragment:onSelected
+I/Lk      (29088): MsgListFragment:onDisappear
+I/Lk      (29088): MinesMapFragment:onAppear
+I/Lk      (29088): popShow
+I/Lk      (29088): MinesMapFragment:onDisappear
+I/Lk      (29088): MultiFuncFragment:onAppear
+I/Lk      (29088): MultiFuncFragment:onSelected
+I/Lk      (29088): before findViewById
+I/Lk      (29088): before onCreateActivityFinish
+I/Lk      (29088): onCreateActivityFinish：
+I/Lk      (29088): 第一次：清华大学ing
+I/Lk      (29088): MultiFuncFragment:onDisappear
+I/Lk      (29088): MinesMapFragment:onAppear
+I/Lk      (29088): MinesMapFragment:onSelected
+I/Lk      (29088): MinesMapFragment:onDisappear
+I/Lk      (29088): MultiFuncFragment:onAppear
+I/Lk      (29088): MultiFuncFragment:onSelected
+I/Lk      (29088): ingShow onDestroy：
+I/Lk      (29088): before findViewById
+I/Lk      (29088): before onCreateActivityFinish
+I/Lk      (29088): onCreateActivityFinish：
+I/Lk      (29088): 第一次：北京大学ing
+I/Lk      (29088): MultiFuncFragment:onDisappear
+I/Lk      (29088): MinesMapFragment:onAppear
+I/Lk      (29088): MinesMapFragment:onSelected
+I/Lk      (29088): MinesMapFragment:onDisappear
+I/Lk      (29088): MultiFuncFragment:onAppear
+I/Lk      (29088): MultiFuncFragment:onSelected
+I/Lk      (29088): ingShow onDestroy：
+I/Lk      (29088): before findViewById
+I/Lk      (29088): before onCreateActivityFinish
+I/Lk      (29088): onCreateActivityFinish：
+I/Lk      (29088): 第一次：中国人民大学ing
+I/Lk      (29088): MultiFuncFragment:onDisappear
+I/Lk      (29088): MinesMapFragment:onAppear
+I/Lk      (29088): MinesMapFragment:onSelected
+I/Lk      (29088): MinesMapFragment:onDisappear
+I/Lk      (29088): MultiFuncFragment:onAppear
+I/Lk      (29088): MultiFuncFragment:onSelected
+I/Lk      (29088): ingShow onDestroy：
+I/Lk      (29088): before findViewById
+I/Lk      (29088): before onCreateActivityFinish
+I/Lk      (29088): onCreateActivityFinish：
+I/Lk      (29088): 第一次：北京理工大学ing
+I/Lk      (29088): MultiFuncFragment:onDisappear
+I/Lk      (29088): MinesMapFragment:onAppear
+I/Lk      (29088): MinesMapFragment:onSelected
