@@ -1,6 +1,7 @@
 I/Lk      ( 4380): 第一次：清华大学ing
 I/Lk      ( 4380): onSaveInstanceState：Bundle[{STORED_INSTANCE=[com.weix.newapp.leiren.bean.Ing@41d38220, com.weix.newapp.leiren.bean.Ing@422d97c0, com.weix.newapp.leiren.bean.Ing@42db7230, com.weix.newapp.leiren.bean.Ing@41874aa0, com.weix.newapp.leiren.bean.Ing@41874f18, com.weix.newapp.leiren.bean.Ing@4224e820, com.weix.newapp.leiren.bean.Ing@4224eec0, com.weix.newapp.leiren.bean.Ing@4190dde0, com.weix.newapp.leiren.bean.Ing@4190e258, com.weix.newapp.leiren.bean.Ing@4183c350]}]
 I/Lk      ( 4380): 第一次：清华大学ing
+
 D/AndroidRuntime(26070): 
 D/AndroidRuntime(26070): >>>>>> AndroidRuntime START com.android.internal.os.RuntimeInit <<<<<<
 D/AndroidRuntime(26070): CheckJNI is OFF
