@@ -3,21 +3,17 @@
     <forlist>
     @Override
 	public View getView(int position, View convertView, ViewGroup parent) {
-		View view = null;
-		#%localDeclaration%#
+		ViewHolder holder=null;
 		if (convertView == null) {
+			holder=new ViewHolder();
 			#%inflateView%#
-			ViewHolder holder=new ViewHolder();
 			#%holderFindViewById%#
 			view.setTag(holder);
 		} else {
-			view = convertView;
-			ViewHolder holder = (ViewHolder) view.getTag();
+			holder = (ViewHolder) convertView.getTag();
 		}
-		
-		return view;
+		return convertView;
 	}
-
 	class ViewHolder {
 		#%localDeclaration%#
 	}
@@ -30,6 +26,6 @@
 		#%cases%#
 	}
     </switch>
-    <inflate>View view=View.inflate(context,R.layout.#%fileName%#,null);
+    <inflate>#%showViewDec%# #%parent%#=View.inflate(context,R.layout.#%fileName%#,null);
 </inflate>
 </pattern>    

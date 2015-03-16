@@ -5,6 +5,7 @@ import java.awt.Button;
 import java.awt.Checkbox;
 import java.awt.CheckboxGroup;
 import java.awt.Color;
+import java.awt.FlowLayout;
 import java.awt.Font;
 import java.awt.TextArea;
 import java.awt.TextField;
@@ -33,6 +34,7 @@ import com.mrbu.androidxmlparser.log.LogCatReader;
 import com.mrbu.androidxmlparser.parser.AndroidXmlParser;
 
 public class DragAndShowFrame extends JFrame {
+	private static final String LOG_TAG_REMIDER = "在此输入LogTag筛选字段";
 	private static final String REMINDER = "此处可设置父控件名字";
 	private static final String REMINDER_CLASSNAME = "此处可设置监听器类的名字";
 	JPanel panel1ForCode;
@@ -47,6 +49,7 @@ public class DragAndShowFrame extends JFrame {
 	Button btnForStyle;
 	TextArea taWest;
 	TextField tfClassname;
+	TextField tfLogStr;
 	Checkbox cbForLayout;
 	Checkbox cbForListView;
 	Checkbox cbForItemView;
@@ -58,6 +61,7 @@ public class DragAndShowFrame extends JFrame {
 	private Button btnForLog;
 	private LogCatReader logcat;
 	private String newLine = "\n\r";
+	private JPanel panelInLogSouth;
 
 	public DragAndShowFrame() {
 		font = new Font(null, Font.BOLD | Font.ITALIC, 15);
@@ -75,10 +79,10 @@ public class DragAndShowFrame extends JFrame {
 		taLog = new TextArea("log is going to come", 21, 80);
 		taLog.setEditable(false);
 		taLog.setFont(font);
-		panel3ForLog.add(taLog, BorderLayout.CENTER);
+		tfLogStr = new TextField(LOG_TAG_REMIDER, 48);
+
 		btnForLog = new Button("startLog");
 		btnForLog.addActionListener(new ActionListener() {
-
 			@Override
 			public void actionPerformed(ActionEvent arg0) {
 				if (logcat == null) {
@@ -91,12 +95,18 @@ public class DragAndShowFrame extends JFrame {
 					return;
 				}
 				try {
-					logcat.startLog();
+					taLog.setText("");
+					logcat.startLog(tfLogStr.getText(),"AndroidRuntime","Android Runtime");
 				} catch (IOException e) {
 					e.printStackTrace();
 				}
 			}
 		});
+		panelInLogSouth = new JPanel();
+		panelInLogSouth.setLayout(new FlowLayout());
+		panelInLogSouth.add(btnForLog);
+		panel3ForLog.add(tfLogStr, BorderLayout.NORTH);
+		panel3ForLog.add(taLog, BorderLayout.CENTER);
 		panel3ForLog.add(btnForLog, BorderLayout.SOUTH);
 	}
 

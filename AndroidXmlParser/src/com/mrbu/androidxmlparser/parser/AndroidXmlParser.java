@@ -33,6 +33,8 @@ public class AndroidXmlParser {
 	private static final String localDeclarationPat = "#%localDeclaration%#";
 	private static final String idNamePat = "#%idName%#";
 	private static final String fileNamePat = "#%fileName%#";
+	private static final String viewDecPat = "#%showViewDec%#";
+	private static final String parentPat = "#%parent%#";
 	private static SAXReader reader = null;
 	public static String parseExtractStyle(String xmlText){
 		String notExtractedStyle="text";
@@ -170,7 +172,7 @@ public class AndroidXmlParser {
 			sbHolderFindView.append(vi.toHolderFindView(op.getParentView()));
 		}
 		String inflateStr = root.element("inflate").getText()
-				.replace(fileNamePat, filename);
+				.replace(fileNamePat, filename).replace(parentPat, op.getParentView()).replace(viewDecPat, "");
 		listPat = listPat.replace(localDeclarationPat, sbLocalDeclaration.toString())
 				.replace(holderFindViewByIdPat, sbHolderFindView.toString())
 				.replace(inflateViewPat, inflateStr);
@@ -214,9 +216,7 @@ public class AndroidXmlParser {
 			Operation op, String filename) throws DocumentException {
 		Element root = getPatternRootElement();
 		String inflateStr =root.element("inflate").getText()
-				.replaceAll(fileNamePat, filename);
-		op.setParentView("view");
-		
+				.replaceAll(fileNamePat, filename).replace(viewDecPat, "").replace(parentPat, op.getParentView());
 		StringBuffer sbDeclaration = new StringBuffer();
 		StringBuffer sbFindView = new StringBuffer();
 		StringBuffer sbSetOnClick = new StringBuffer();

@@ -19,7 +19,8 @@ public class LogCatReader {
 		mShowFrame = dragAndShowFrame;
 	}
 
-	public void startLog() throws IOException {
+	public void startLog(final String strFilter1, final String strFilter2,
+			final String strFilter3) throws IOException {
 		File f = new File("log.txt");
 		if (!f.exists()) {
 			f.createNewFile();
@@ -38,10 +39,6 @@ public class LogCatReader {
 							logcatProcess.getInputStream(), "UTF-8"));
 					String line;
 					// 筛选需要的字串
-					String strFilter1 = "Lk";
-					String strFilter2 = "androidruntime";
-					String strFilter3 = "AndroidRuntime";
-
 					while (((line = bufferedReader.readLine()) != null)
 							&& running) {
 						/** 检测到strFilter的log日志语句，进行你需要的处理 */
@@ -55,10 +52,13 @@ public class LogCatReader {
 							printLog(line);
 						}
 					}
-					br.close();
+					if(br!=null){
+						br.close();
+					}
 				} catch (Exception e) {
 					try {
-						br.close();
+						if (br != null)
+							br.close();
 					} catch (IOException e1) {
 						e1.printStackTrace();
 					}
