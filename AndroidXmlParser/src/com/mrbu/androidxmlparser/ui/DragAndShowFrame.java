@@ -34,7 +34,7 @@ import com.mrbu.androidxmlparser.log.LogCatReader;
 import com.mrbu.androidxmlparser.parser.AndroidXmlParser;
 
 public class DragAndShowFrame extends JFrame {
-	private static final String LOG_TAG_REMIDER = "在此输入LogTag筛选字段";
+	private static final String LOG_TAG_REMIDER = "Lk";
 	private static final String REMINDER = "此处可设置父控件名字";
 	private static final String REMINDER_CLASSNAME = "此处可设置监听器类的名字";
 	JPanel panel1ForCode;
@@ -96,7 +96,7 @@ public class DragAndShowFrame extends JFrame {
 				}
 				try {
 					taLog.setText("");
-					logcat.startLog(tfLogStr.getText(),"AndroidRuntime","Android Runtime");
+					logcat.startLog(tfLogStr.getText(),"AndroidRuntime","FATAL");
 				} catch (IOException e) {
 					e.printStackTrace();
 				}
@@ -115,7 +115,7 @@ public class DragAndShowFrame extends JFrame {
 		setSize(700, 550);
 		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		setLocation(350, 120);
-		setAlwaysOnTop(true);
+		setAlwaysOnTop(false);
 	}
 
 	private void initForCode() {

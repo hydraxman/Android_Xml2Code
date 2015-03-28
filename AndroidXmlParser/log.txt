@@ -1,42 +1,266 @@
-I/Lk      (13134): MinesMapFragment:onSelected
-I/Lk      (13134): MsgListFragment:onDisappear
-I/Lk      (13134): MinesMapFragment:onAppear
-I/Lk      (13134): MsgListFragment:onSelected
-I/Lk      (13134): MinesMapFragment:onDisappear
-I/Lk      (13134): MsgListFragment:onAppear
-I/Lk      (13134): SnapDrawFragment:onSelected
-I/Lk      (13134): MsgListFragment:onDisappear
-I/Lk      (13134): SnapDrawFragment:onAppear
-I/Lk      (13134): MsgListFragment:onSelected
-I/Lk      (13134): SnapDrawFragment:onDisappear
-I/Lk      (13134): MsgListFragment:onAppear
-I/Lk      (13134): MinesMapFragment:onSelected
-I/Lk      (13134): MsgListFragment:onDisappear
-I/Lk      (13134): MinesMapFragment:onAppear
-I/Lk      (13134): MinesMapFragment:onDisappear
-I/Lk      (13134): MultiFuncFragment:onAppear
-I/Lk      (13134): MultiFuncFragment:onSelected
-I/Lk      (13134): before findViewById
-I/Lk      (13134): before onCreateActivityFinish
-I/Lk      (13134): MultiFuncFragment:onDisappear
-I/Lk      (13134): MinesMapFragment:onAppear
-I/Lk      (13134): MinesMapFragment:onSelected
-I/Lk      (13134): before findViewById
-I/Lk      (13134): before onCreateActivityFinish
-I/Lk      (13134): s.width==========640======= s.height:480
-I/Lk      (13134): popShow
-I/Lk      (13134): MsgListFragment:onSelected
-I/Lk      (13134): MinesMapFragment:onDisappear
-I/Lk      (13134): MsgListFragment:onAppear
-I/Lk      (13134): MinesMapFragment:onSelected
-I/Lk      (13134): MsgListFragment:onDisappear
-I/Lk      (13134): MinesMapFragment:onAppear
-I/Lk      (13134): MsgListFragment:onSelected
-I/Lk      (13134): MinesMapFragment:onDisappear
-I/Lk      (13134): MsgListFragment:onAppear
-I/Lk      (13134): SnapDrawFragment:onSelected
-I/Lk      (13134): MsgListFragment:onDisappear
-I/Lk      (13134): SnapDrawFragment:onAppear
-I/Lk      (13134): MsgListFragment:onSelected
-I/Lk      (13134): SnapDrawFragment:onDisappear
-I/Lk      (13134): MsgListFragment:onAppear
+D/AndroidRuntime(31059): 
+D/AndroidRuntime(31059): >>>>>> AndroidRuntime START com.android.internal.os.RuntimeInit <<<<<<
+D/AndroidRuntime(31059): CheckJNI is OFF
+D/AndroidRuntime(31059): language=-Duser.language=zh region=-Duser.region=CN
+D/AndroidRuntime(31059): Calling main entry com.android.commands.am.Am
+D/AndroidRuntime(31059): Shutting down VM
+I/Lk      (31085): iRet:============================>0
+I/Lk      (31085): iRet:============================>0
+I/Lk      (31085): iFun is :9iRet is :0iSerial is :2
+I/Lk      (31085): notifying change
+I/Lk      (31085): 总共数量是content://com.weix.newapp.leiren.provider.Roster/roster/2069
+I/Lk      (31085): 总共数量是content://com.weix.newapp.leiren.provider.Roster/roster/2070
+I/Lk      (31085): 总共数量是content://com.weix.newapp.leiren.provider.Roster/roster/2071
+I/Lk      (31085): 总共数量是content://com.weix.newapp.leiren.provider.Roster/roster/2072
+I/Lk      (31085): 总共数量是content://com.weix.newapp.leiren.provider.Roster/roster/2073
+I/Lk      (31085): 总共数量是content://com.weix.newapp.leiren.provider.Roster/roster/2074
+I/Lk      (31085): 总共数量是content://com.weix.newapp.leiren.provider.Roster/roster/2075
+I/Lk      (31085): 总共数量是content://com.weix.newapp.leiren.provider.Roster/roster/2076
+I/Lk      (31085): 总共数量是content://com.weix.newapp.leiren.provider.Roster/roster/2077
+I/Lk      (31085): 总共数量是content://com.weix.newapp.leiren.provider.Roster/roster/2078
+I/Lk      (31085): 总共数量是content://com.weix.newapp.leiren.provider.Roster/roster/2079
+I/Lk      (31085): 总共数量是content://com.weix.newapp.leiren.provider.Roster/roster/2080
+I/Lk      (31085): 总共数量是content://com.weix.newapp.leiren.provider.Roster/roster/2081
+I/Lk      (31085): 总共数量是content://com.weix.newapp.leiren.provider.Roster/roster/2082
+I/Lk      (31085): 总共数量是content://com.weix.newapp.leiren.provider.Roster/roster/2083
+I/Lk      (31085): 总共数量是content://com.weix.newapp.leiren.provider.Roster/roster/2084
+I/Lk      (31085): 总共数量是content://com.weix.newapp.leiren.provider.Roster/roster/2085
+I/Lk      (31085): 总共数量是content://com.weix.newapp.leiren.provider.Roster/roster/2086
+I/Lk      (31085): iFun is :9iRet is :0iSerial is :23
+I/Lk      (31085): creating new image table
+I/Lk      (31085): MsgListFragment:onDisappear
+I/Lk      (31085): SnapDrawFragment:onDisappear
+I/Lk      (31085): MinesMapFragment:onDisappear
+I/Lk      (31085): MultiFuncFragment:onDisappear
+I/Lk      (31085): MsgListFragment:onAppear
+I/Lk      (31085): 总共数量是content://com.weix.newapp.leiren.provider.Roster/roster/2087
+I/Lk      (31085): 总共数量是content://com.weix.newapp.leiren.provider.Roster/roster/2088
+I/Lk      (31085): 总共数量是content://com.weix.newapp.leiren.provider.Roster/roster/2089
+I/Lk      (31085): 总共数量是content://com.weix.newapp.leiren.provider.Roster/roster/2090
+I/Lk      (31085): 总共数量是content://com.weix.newapp.leiren.provider.Roster/roster/2091
+I/Lk      (31085): 总共数量是content://com.weix.newapp.leiren.provider.Roster/roster/2092
+I/Lk      (31085): 总共数量是content://com.weix.newapp.leiren.provider.Roster/roster/2093
+I/Lk      (31085): 总共数量是content://com.weix.newapp.leiren.provider.Roster/roster/2094
+I/Lk      (31085): 总共数量是content://com.weix.newapp.leiren.provider.Roster/roster/2095
+I/Lk      (31085): 总共数量是content://com.weix.newapp.leiren.provider.Roster/roster/2096
+I/Lk      (31085): 总共数量是content://com.weix.newapp.leiren.provider.Roster/roster/2097
+I/Lk      (31085): 总共数量是content://com.weix.newapp.leiren.provider.Roster/roster/2098
+I/Lk      (31085): 总共数量是content://com.weix.newapp.leiren.provider.Roster/roster/2099
+I/Lk      (31085): 总共数量是content://com.weix.newapp.leiren.provider.Roster/roster/2100
+I/Lk      (31085): 总共数量是content://com.weix.newapp.leiren.provider.Roster/roster/2101
+I/Lk      (31085): 总共数量是content://com.weix.newapp.leiren.provider.Roster/roster/2102
+I/Lk      (31085): 总共数量是content://com.weix.newapp.leiren.provider.Roster/roster/2103
+I/Lk      (31085): 总共数量是content://com.weix.newapp.leiren.provider.Roster/roster/2104
+I/Lk      (31085): before findViewById
+I/Lk      (31085): before onCreateActivityFinish
+I/Lk      (31085): onCreateActivityFinish()===========>MsgListFragment
+I/Lk      (31085): 已经完成信息获取
+I/Lk      (31085): 用户信息：Usermsg [id=0, type=0, name=, nickname=慢慢, sex=男, classname=null, area=北京市, avatar=/home/nfs/data/1422338547/1422340719004.jpg, signature=慢，再慢, schoolid=null, school=, classid=null, schoolname=null, birthday=2014-12-29, remarks=null, album=null, company=, bitmap=null, jid=15620600064, acctype=0, acccategory=0, ArticleImgLst=null, isroster=false, omines=674, fmines=0, setmines=0, explosionedmines=0, failuremines=0, earnmines=0, age=0]
+I/Lk      (31085): notifying change
+I/Lk      (31085): 总共数量是content://com.weix.newapp.leiren.provider.Roster/roster/2105
+I/Lk      (31085): 总共数量是content://com.weix.newapp.leiren.provider.Roster/roster/2106
+I/Lk      (31085): 总共数量是content://com.weix.newapp.leiren.provider.Roster/roster/2107
+I/Lk      (31085): 总共数量是content://com.weix.newapp.leiren.provider.Roster/roster/2108
+I/Lk      (31085): 总共数量是content://com.weix.newapp.leiren.provider.Roster/roster/2109
+I/Lk      (31085): 总共数量是content://com.weix.newapp.leiren.provider.Roster/roster/2110
+I/Lk      (31085): 总共数量是content://com.weix.newapp.leiren.provider.Roster/roster/2111
+I/Lk      (31085): 总共数量是content://com.weix.newapp.leiren.provider.Roster/roster/2112
+I/Lk      (31085): 总共数量是content://com.weix.newapp.leiren.provider.Roster/roster/2113
+I/Lk      (31085): 总共数量是content://com.weix.newapp.leiren.provider.Roster/roster/2114
+I/Lk      (31085): 总共数量是content://com.weix.newapp.leiren.provider.Roster/roster/2115
+I/Lk      (31085): 总共数量是content://com.weix.newapp.leiren.provider.Roster/roster/2116
+I/Lk      (31085): 总共数量是content://com.weix.newapp.leiren.provider.Roster/roster/2117
+I/Lk      (31085): 总共数量是content://com.weix.newapp.leiren.provider.Roster/roster/2118
+I/Lk      (31085): 总共数量是content://com.weix.newapp.leiren.provider.Roster/roster/2119
+I/Lk      (31085): 总共数量是content://com.weix.newapp.leiren.provider.Roster/roster/2120
+I/Lk      (31085): 总共数量是content://com.weix.newapp.leiren.provider.Roster/roster/2121
+I/Lk      (31085): 总共数量是content://com.weix.newapp.leiren.provider.Roster/roster/2122
+I/Lk      (31085): before findViewById
+I/Lk      (31085): before onCreateActivityFinish
+I/Lk      (31085): onCreateActivityFinish()===========>SnapDrawFragment
+I/Lk      (31085): before findViewById
+I/Lk      (31085): before onCreateActivityFinish
+I/Lk      (31085): onCreateActivityFinish()===========>MinesMapFragment
+I/Lk      (31085): before findViewById
+I/Lk      (31085): before onCreateActivityFinish
+I/Lk      (31085): onCreateActivityFinish()===========>MultiFuncFragment
+I/Lk      (31085): s.width==========1600======= s.height:1200
+I/Lk      (31085): notifying change
+I/System.out(30934): httpget:http://data.haoma.sogou.com/sdk_query.php?v=1.2&s=mz&parames=jf/vMAePSfndEY8AO2ykcu2OYSEvcGUiunGT+2D5PENrNumwN5fGdEKKD2O2hBfm8w7hObyPXOlY7cr5l1PNucEZXL9/dIIorY1elnXyDRYWWv4d6/w1FCLkgbGCYMaK
+I/System.out(30934): http://data.haoma.sogou.com/sdk_query.php?v=1.2&s=mz&parames=jf/vMAePSfndEY8AO2ykcu2OYSEvcGUiunGT+2D5PENrNumwN5fGdEKKD2O2hBfm8w7hObyPXOlY7cr5l1PNucEZXL9/dIIorY1elnXyDRYWWv4d6/w1FCLkgbGCYMaK
+I/Lk      (31085): MinesMapFragment:onSelected
+I/Lk      (31085): MsgListFragment:onDisappear
+I/Lk      (31085): MinesMapFragment:onAppear
+I/Lk      (31085): popShow
+I/Lk      (31085): MinesMapFragment:onDisappear
+I/Lk      (31085): MultiFuncFragment:onAppear
+I/Lk      (31085): MultiFuncFragment:onSelected
+I/Lk      (31085): before findViewById
+I/Lk      (31085): before onCreateActivityFinish
+I/Lk      (31085): onCreateActivityFinish：
+I/Lk      (31085): {"list_ing_content":[{"content_id":"196","user_id":"15620600063","content_like_count":"2","my_like":"0","reply_count":"1","picture_url":"/home/nfs/data/1426664022/1426735333034.jpg","description":"E5B8AEE5BF99E782B9E8B59E","tags":"haha","create_time":"1426735500","deadline":"1426821900","remain_time":"85657","school_id":"1","open_enable":"1"},{"content_id":"195","user_id":"18911981981","content_like_count":"1","my_like":"0","reply_count":"3","picture_url":"/home/nfs/data/1426664949/1426674256006.jpg","description":"e7aca6e59088e7bb8fe6b58e","tags":"快乐八卦","create_time":"1426674262","deadline":"1426760662","remain_time":"24419","school_id":"1","open_enable":"1"},{"content_id":"194","user_id":"15600630097","content_like_count":"1","my_like":"0","reply_count":"9","picture_url":"/home/nfs/data/1426664949/1426672799001.jpg","description":"e6b395e59bbde58f82e58aa0e5b7a5e7a88be6acbee8b685e7baa7e5a5bde59083e6849fe8a789","tags":"快乐八卦","create_time":"1426672800","deadline":"1426759200","remain_time":"22957","school_id":"1","open_enable":"1"},{"content_id":"193","user_id":"15620600064","content_like_count":"2","my_like":"1","reply_count":"6","picture_url":"/home/nfs/data/1426664022/1426666629005.jpg","description":"E68891E8A681E5BD93E6A5BCE4B8BB","tags":"haha","create_time":"1426666787","deadline":"1426753187","remain_time":"16944","school_id":"1","open_enable":"1"},{"content_id":"192","user_id":"15600630097","content_like_count":"2","my_like":"0","reply_count":"41","picture_url":"/home/nfs/data/1426662069/1426663343008.jpg","description":"e4bb8ae7949fe4bb8ae4b896e8819ae7b2bee4bc9ae7a59ee8a7a3e586b3","tags":"快乐八卦","create_time":"1426663497","deadline":"1426749897","remain_time":"13654","school_id":"1","open_enable":"1"},{"content_id":"191","user_id":"15600630097","content_like_count":"1","my_like":"0","reply_count":"35","picture_url":"/home/nfs/data/1426662069/1426663326007.jpg","description":"e4bb8ae7949fe4bb8ae4b896e8a7a3e586b3","tags":"快乐八卦","create_time":"1426663485","deadline":"1426749885","remain_time":"13642","school_id":"1","open_enable":"1"},{"content_id":"190","user_id":"18900000000","content_like_count":"1","my_like":"0","reply_count":"3","picture_url":"/home/nfs/data/1426662815/1426663112006.jpg","description":"","tags":"快乐八卦","create_time":"1426663113","deadline":"1426749513","remain_time":"13270","school_id":"1","open_enable":"1"},{"content_id":"189","user_id":"18900000000","content_like_count":"1","my_like":"0","reply_count":"0","picture_url":"/home/nfs/data/1426662815/1426663093005.jpg","description":"","tags":"快乐八卦","create_time":"1426663094","deadline":"1426749494","remain_time":"13251","school_id":"1","open_enable":"1"},{"content_id":"188","user_id":"17718089741","content_like_count":"0","my_like":"0","reply_count":"0","picture_url":"/home/nfs/data/1426662069/1426662691003.jpg","description":"77616974","tags":"haha","create_time":"1426662849","deadline":"1426749249","remain_time":"13006","school_id":"1","open_enable":"1"},{"content_id":"186","user_id":"15600630097","content_like_count":"2","my_like":"0","reply_count":"1","picture_url":"/home/nfs/data/1426659965/1426660480001.jpg","description":"e8b5b6e7b4a7e6af95e4b89a","tags":"快乐八卦","create_time":"1426660482","deadline":"1426746882","remain_time":"10639","school_id":"1","open_enable":"1"}],"count":"10","last_index":"0","my_school_id":"0"}
+I/Lk      (31085): MultiFuncFragment:onDisappear
+I/Lk      (31085): MinesMapFragment:onAppear
+I/Lk      (31085): MinesMapFragment:onSelected
+I/Lk      (31085): MsgListFragment:onSelected
+I/Lk      (31085): MinesMapFragment:onDisappear
+I/Lk      (31085): MsgListFragment:onAppear
+I/Lk      (31085): before findViewById
+I/Lk      (31085): before onCreateActivityFinish
+I/Lk      (31085): 图片json：：：：：：{"user_id":"15620600064","list":[{"img":"/home/nfs/data/1422521500/1422522355001.jpg"},{"img":"/home/nfs/data/1422329419/1422329419000.jpg"}],"count":"2"}
+I/Lk      (31085): onSaveInstanceState：Bundle[{STORED_INSTANCE=[com.weix.newapp.leiren.bean.Ing@43372698, com.weix.newapp.leiren.bean.Ing@43371f10, com.weix.newapp.leiren.bean.Ing@43371bf0, com.weix.newapp.leiren.bean.Ing@43371ac0, com.weix.newapp.leiren.bean.Ing@43371448, com.weix.newapp.leiren.bean.Ing@433711b0, com.weix.newapp.leiren.bean.Ing@43370288, com.weix.newapp.leiren.bean.Ing@43370138, com.weix.newapp.leiren.bean.Ing@4336fde0, com.weix.newapp.leiren.bean.Ing@4336f238]}]
+I/Lk      (31085): before findViewById
+I/Lk      (31085): before onCreateActivityFinish
+I/Lk      (31085): ingShow onDestroy：
+I/Lk      (31085): before findViewById
+I/Lk      (31085): before onCreateActivityFinish
+I/Lk      (31085): before findViewById
+I/Lk      (31085): before onCreateActivityFinish
+I/Lk      (31085): iFun is :16iRet is :0iSerial is :237
+I/Lk      (31085): 开始登陆
+I/Lk      (31085): iRet:============================>0
+I/Lk      (31085): notifying change
+I/Lk      (31085): 总共数量是content://com.weix.newapp.leiren.provider.Roster/roster/2123
+I/Lk      (31085): 总共数量是content://com.weix.newapp.leiren.provider.Roster/roster/2124
+I/Lk      (31085): 总共数量是content://com.weix.newapp.leiren.provider.Roster/roster/2125
+I/Lk      (31085): 总共数量是content://com.weix.newapp.leiren.provider.Roster/roster/2126
+I/Lk      (31085): 总共数量是content://com.weix.newapp.leiren.provider.Roster/roster/2127
+I/Lk      (31085): 总共数量是content://com.weix.newapp.leiren.provider.Roster/roster/2128
+I/Lk      (31085): notifying change
+I/Lk      (31085): MsgListFragment:onDisappear
+I/Lk      (31085): SnapDrawFragment:onDisappear
+I/Lk      (31085): MinesMapFragment:onDisappear
+I/Lk      (31085): MultiFuncFragment:onDisappear
+I/Lk      (31085): MsgListFragment:onAppear
+I/Lk      (31085): before findViewById
+I/Lk      (31085): before onCreateActivityFinish
+I/Lk      (31085): onCreateActivityFinish()===========>MsgListFragment
+I/Lk      (31085): 已经完成信息获取
+I/Lk      (31085): 用户信息：Usermsg [id=0, type=0, name=, nickname=爸爸, sex=男, classname=null, area=, avatar=/home/nfs/data/1423626457/1423638774018.jpg, signature=, schoolid=null, school=, classid=null, schoolname=null, birthday=1991-01-01, remarks=null, album=null, company=, bitmap=null, jid=15620600063, acctype=0, acccategory=0, ArticleImgLst=null, isroster=false, omines=26, fmines=0, setmines=0, explosionedmines=0, failuremines=0, earnmines=0, age=24]
+I/Lk      (31085): before findViewById
+I/Lk      (31085): before onCreateActivityFinish
+I/Lk      (31085): onCreateActivityFinish()===========>SnapDrawFragment
+I/Lk      (31085): before findViewById
+I/Lk      (31085): before onCreateActivityFinish
+I/Lk      (31085): onCreateActivityFinish()===========>MinesMapFragment
+I/Lk      (31085): before findViewById
+I/Lk      (31085): before onCreateActivityFinish
+I/Lk      (31085): onCreateActivityFinish()===========>MultiFuncFragment
+I/Lk      (31085): s.width==========1600======= s.height:1200
+I/Lk      (31085): MinesMapFragment:onSelected
+I/Lk      (31085): MsgListFragment:onDisappear
+I/Lk      (31085): MinesMapFragment:onAppear
+I/Lk      (31085): MinesMapFragment:onDisappear
+I/Lk      (31085): MultiFuncFragment:onAppear
+I/Lk      (31085): MultiFuncFragment:onSelected
+I/Lk      (31085): before findViewById
+I/Lk      (31085): before onCreateActivityFinish
+I/Lk      (31085): y::0.0
+I/Lk      (31085): scrollY:-135
+I/Lk      (31085): scrollY:-135
+I/Lk      (31085): MinesMapFragment:onSelected
+I/Lk      (31085): scrollY:-135
+I/Lk      (31085): scrollY:-135
+I/Lk      (31085): scrollY:-135
+I/Lk      (31085): scrollY:-135
+I/Lk      (31527): iRet:============================>0
+I/Lk      (31527): iRet:============================>0
+I/Lk      (31527): iFun is :9iRet is :0iSerial is :2
+I/Lk      (31527): notifying change
+I/Lk      (31527): 总共数量是content://com.weix.newapp.leiren.provider.Roster/roster/2129
+I/Lk      (31527): 总共数量是content://com.weix.newapp.leiren.provider.Roster/roster/2130
+I/Lk      (31527): 总共数量是content://com.weix.newapp.leiren.provider.Roster/roster/2131
+I/Lk      (31527): 总共数量是content://com.weix.newapp.leiren.provider.Roster/roster/2132
+I/Lk      (31527): notifying change
+I/Lk      (31527): 总共数量是content://com.weix.newapp.leiren.provider.Roster/roster/2133
+I/Lk      (31527): MsgListFragment:onDisappear
+I/Lk      (31527): SnapDrawFragment:onDisappear
+I/Lk      (31527): MinesMapFragment:onDisappear
+I/Lk      (31527): MultiFuncFragment:onDisappear
+I/Lk      (31527): MsgListFragment:onAppear
+I/Lk      (31527): 总共数量是content://com.weix.newapp.leiren.provider.Roster/roster/2134
+I/Lk      (31527): iFun is :9iRet is :0iSerial is :11
+I/Lk      (31527): 总共数量是content://com.weix.newapp.leiren.provider.Roster/roster/2135
+I/Lk      (31527): 总共数量是content://com.weix.newapp.leiren.provider.Roster/roster/2136
+I/Lk      (31527): 总共数量是content://com.weix.newapp.leiren.provider.Roster/roster/2137
+I/Lk      (31527): 总共数量是content://com.weix.newapp.leiren.provider.Roster/roster/2138
+I/Lk      (31527): before findViewById
+I/Lk      (31527): 总共数量是content://com.weix.newapp.leiren.provider.Roster/roster/2139
+I/Lk      (31527): before onCreateActivityFinish
+I/Lk      (31527): onCreateActivityFinish()===========>MsgListFragment
+I/Lk      (31527): 总共数量是content://com.weix.newapp.leiren.provider.Roster/roster/2140
+I/Lk      (31527): 已经完成信息获取
+I/Lk      (31527): 用户信息：Usermsg [id=0, type=0, name=, nickname=爸爸, sex=男, classname=null, area=, avatar=/home/nfs/data/1423626457/1423638774018.jpg, signature=, schoolid=null, school=, classid=null, schoolname=null, birthday=1991-01-01, remarks=null, album=null, company=, bitmap=null, jid=15620600063, acctype=0, acccategory=0, ArticleImgLst=null, isroster=false, omines=26, fmines=0, setmines=0, explosionedmines=0, failuremines=0, earnmines=0, age=24]
+I/Lk      (31527): 总共数量是content://com.weix.newapp.leiren.provider.Roster/roster/2141
+I/Lk      (31527): 总共数量是content://com.weix.newapp.leiren.provider.Roster/roster/2142
+I/Lk      (31527): 总共数量是content://com.weix.newapp.leiren.provider.Roster/roster/2143
+I/Lk      (31527): 总共数量是content://com.weix.newapp.leiren.provider.Roster/roster/2144
+I/Lk      (31527): 总共数量是content://com.weix.newapp.leiren.provider.Roster/roster/2145
+I/Lk      (31527): 总共数量是content://com.weix.newapp.leiren.provider.Roster/roster/2146
+I/Lk      (31527): before findViewById
+I/Lk      (31527): before onCreateActivityFinish
+I/Lk      (31527): onCreateActivityFinish()===========>SnapDrawFragment
+I/Lk      (31527): before findViewById
+I/Lk      (31527): before onCreateActivityFinish
+I/Lk      (31527): onCreateActivityFinish()===========>MinesMapFragment
+I/Lk      (31527): before findViewById
+I/Lk      (31527): before onCreateActivityFinish
+I/Lk      (31527): onCreateActivityFinish()===========>MultiFuncFragment
+I/Lk      (31527): s.width==========1600======= s.height:1200
+I/Lk      (31527): notifying change
+I/Lk      (31527): MinesMapFragment:onSelected
+I/Lk      (31527): MsgListFragment:onDisappear
+I/Lk      (31527): MinesMapFragment:onAppear
+I/Lk      (31527): MinesMapFragment:onDisappear
+I/Lk      (31527): MultiFuncFragment:onAppear
+I/Lk      (31527): MultiFuncFragment:onSelected
+I/Lk      (31527): before findViewById
+I/Lk      (31527): before onCreateActivityFinish
+I/Lk      (31527): y::0.0
+I/Lk      (31527): scrollY:-135
+I/Lk      (31527): scrollY:-135
+I/Lk      (31527): scrollY:-135
+I/Lk      (31527): MultiFuncFragment:onDisappear
+I/Lk      (31527): MinesMapFragment:onAppear
+I/Lk      (31527): MinesMapFragment:onSelected
+I/Lk      (31527): popShow
+I/Lk      (31527): scrollY:-135
+I/Lk      (31527): scrollY:-135
+I/Lk      (31527): scrollY:-135
+I/Lk      (31527): scrollY:-135
+I/Lk      (31527): MinesMapFragment:onDisappear
+I/Lk      (31527): MultiFuncFragment:onAppear
+I/Lk      (31527): MultiFuncFragment:onSelected
+I/Lk      (31527): before findViewById
+I/Lk      (31527): before onCreateActivityFinish
+I/Lk      (31527): onCreateActivityFinish：
+I/Lk      (31527): {"list_ing_content":[{"content_id":"196","user_id":"15620600063","content_like_count":"2","my_like":"1","reply_count":"1","picture_url":"/home/nfs/data/1426664022/1426735333034.jpg","description":"E5B8AEE5BF99E782B9E8B59E","tags":"haha","create_time":"1426735500","deadline":"1426821900","remain_time":"85562","school_id":"1","open_enable":"1"},{"content_id":"195","user_id":"18911981981","content_like_count":"1","my_like":"0","reply_count":"3","picture_url":"/home/nfs/data/1426664949/1426674256006.jpg","description":"e7aca6e59088e7bb8fe6b58e","tags":"快乐八卦","create_time":"1426674262","deadline":"1426760662","remain_time":"24324","school_id":"1","open_enable":"1"},{"content_id":"194","user_id":"15600630097","content_like_count":"1","my_like":"0","reply_count":"9","picture_url":"/home/nfs/data/1426664949/1426672799001.jpg","description":"e6b395e59bbde58f82e58aa0e5b7a5e7a88be6acbee8b685e7baa7e5a5bde59083e6849fe8a789","tags":"快乐八卦","create_time":"1426672800","deadline":"1426759200","remain_time":"22862","school_id":"1","open_enable":"1"},{"content_id":"193","user_id":"15620600064","content_like_count":"2","my_like":"0","reply_count":"6","picture_url":"/home/nfs/data/1426664022/1426666629005.jpg","description":"E68891E8A681E5BD93E6A5BCE4B8BB","tags":"haha","create_time":"1426666787","deadline":"1426753187","remain_time":"16849","school_id":"1","open_enable":"1"},{"content_id":"192","user_id":"15600630097","content_like_count":"2","my_like":"0","reply_count":"41","picture_url":"/home/nfs/data/1426662069/1426663343008.jpg","description":"e4bb8ae7949fe4bb8ae4b896e8819ae7b2bee4bc9ae7a59ee8a7a3e586b3","tags":"快乐八卦","create_time":"1426663497","deadline":"1426749897","remain_time":"13559","school_id":"1","open_enable":"1"},{"content_id":"191","user_id":"15600630097","content_like_count":"1","my_like":"0","reply_count":"35","picture_url":"/home/nfs/data/1426662069/1426663326007.jpg","description":"e4bb8ae7949fe4bb8ae4b896e8a7a3e586b3","tags":"快乐八卦","create_time":"1426663485","deadline":"1426749885","remain_time":"13547","school_id":"1","open_enable":"1"},{"content_id":"190","user_id":"18900000000","content_like_count":"1","my_like":"0","reply_count":"3","picture_url":"/home/nfs/data/1426662815/1426663112006.jpg","description":"","tags":"快乐八卦","create_time":"1426663113","deadline":"1426749513","remain_time":"13175","school_id":"1","open_enable":"1"},{"content_id":"189","user_id":"18900000000","content_like_count":"1","my_like":"0","reply_count":"0","picture_url":"/home/nfs/data/1426662815/1426663093005.jpg","description":"","tags":"快乐八卦","create_time":"1426663094","deadline":"1426749494","remain_time":"13156","school_id":"1","open_enable":"1"},{"content_id":"188","user_id":"17718089741","content_like_count":"0","my_like":"0","reply_count":"0","picture_url":"/home/nfs/data/1426662069/1426662691003.jpg","description":"77616974","tags":"haha","create_time":"1426662849","deadline":"1426749249","remain_time":"12911","school_id":"1","open_enable":"1"},{"content_id":"186","user_id":"15600630097","content_like_count":"2","my_like":"0","reply_count":"1","picture_url":"/home/nfs/data/1426659965/1426660480001.jpg","description":"e8b5b6e7b4a7e6af95e4b89a","tags":"快乐八卦","create_time":"1426660482","deadline":"1426746882","remain_time":"10544","school_id":"1","open_enable":"1"}],"count":"10","last_index":"0","my_school_id":"0"}
+I/Lk      (31527): ingShow onDestroy：
+I/Lk      (31527): before findViewById
+I/Lk      (31527): before onCreateActivityFinish
+I/Lk      (31527): currentJid:15620600063====ingJid:15620600063
+I/Lk      (31527): reply===>{"list_ing_content_reply":[{"reply_id":"270","src_user_id":"17718089741","dst_user_id":"0","reply":"E59388E5958AE59388","create_time":"1426735834"}],"reply_count":"1","last_index":"0","list_fake_table":[{"user_id":"17718089741","fake_name":"xuhe","fake_portrait_url":"/home/nfs/data/1426209118/1426226221011.jpg "}],"fake_table_count":"1"}
+I/Lk      (31527): 收到了通知：{"list_ing_notice" : [{"event_type" : "1","src_user_id" : "15620600063","ing_id" : "196","content" : "E883A1E8AFB4E585ABE98193E788B8E788B8","ing_img" : "/home/nfs/data/1426664022/1426735333034.jpg","user_img" : "/home/nfs/data/1426209118/1426209118000.jpg","user_nickname" : "zhansheng","create_time" : "1426736347"}]}
+I/Lk      (31527): iFun is :216iRet is :807141iSerial is :71
+I/Lk      (31527): before findViewById
+I/Lk      (31527): before onCreateActivityFinish
+I/Lk      (31527): onCreateActivityFinish：
+I/Lk      (31527): {"list_ing_content":[{"content_id":"196","user_id":"15620600063","content_like_count":"2","my_like":"1","reply_count":"2","picture_url":"/home/nfs/data/1426664022/1426735333034.jpg","description":"E5B8AEE5BF99E782B9E8B59E","tags":"haha","create_time":"1426735500","deadline":"1426821900","remain_time":"85537","school_id":"1","open_enable":"1"},{"content_id":"195","user_id":"18911981981","content_like_count":"1","my_like":"0","reply_count":"3","picture_url":"/home/nfs/data/1426664949/1426674256006.jpg","description":"e7aca6e59088e7bb8fe6b58e","tags":"快乐八卦","create_time":"1426674262","deadline":"1426760662","remain_time":"24299","school_id":"1","open_enable":"1"},{"content_id":"194","user_id":"15600630097","content_like_count":"1","my_like":"0","reply_count":"9","picture_url":"/home/nfs/data/1426664949/1426672799001.jpg","description":"e6b395e59bbde58f82e58aa0e5b7a5e7a88be6acbee8b685e7baa7e5a5bde59083e6849fe8a789","tags":"快乐八卦","create_time":"1426672800","deadline":"1426759200","remain_time":"22837","school_id":"1","open_enable":"1"},{"content_id":"193","user_id":"15620600064","content_like_count":"2","my_like":"0","reply_count":"6","picture_url":"/home/nfs/data/1426664022/1426666629005.jpg","description":"E68891E8A681E5BD93E6A5BCE4B8BB","tags":"haha","create_time":"1426666787","deadline":"1426753187","remain_time":"16824","school_id":"1","open_enable":"1"},{"content_id":"192","user_id":"15600630097","content_like_count":"2","my_like":"0","reply_count":"41","picture_url":"/home/nfs/data/1426662069/1426663343008.jpg","description":"e4bb8ae7949fe4bb8ae4b896e8819ae7b2bee4bc9ae7a59ee8a7a3e586b3","tags":"快乐八卦","create_time":"1426663497","deadline":"1426749897","remain_time":"13534","school_id":"1","open_enable":"1"},{"content_id":"191","user_id":"15600630097","content_like_count":"1","my_like":"0","reply_count":"35","picture_url":"/home/nfs/data/1426662069/1426663326007.jpg","description":"e4bb8ae7949fe4bb8ae4b896e8a7a3e586b3","tags":"快乐八卦","create_time":"1426663485","deadline":"1426749885","remain_time":"13522","school_id":"1","open_enable":"1"},{"content_id":"190","user_id":"18900000000","content_like_count":"1","my_like":"0","reply_count":"3","picture_url":"/home/nfs/data/1426662815/1426663112006.jpg","description":"","tags":"快乐八卦","create_time":"1426663113","deadline":"1426749513","remain_time":"13150","school_id":"1","open_enable":"1"},{"content_id":"189","user_id":"18900000000","content_like_count":"1","my_like":"0","reply_count":"0","picture_url":"/home/nfs/data/1426662815/1426663093005.jpg","description":"","tags":"快乐八卦","create_time":"1426663094","deadline":"1426749494","remain_time":"13131","school_id":"1","open_enable":"1"},{"content_id":"188","user_id":"17718089741","content_like_count":"0","my_like":"0","reply_count":"0","picture_url":"/home/nfs/data/1426662069/1426662691003.jpg","description":"77616974","tags":"haha","create_time":"1426662849","deadline":"1426749249","remain_time":"12886","school_id":"1","open_enable":"1"},{"content_id":"186","user_id":"15600630097","content_like_count":"2","my_like":"0","reply_count":"1","picture_url":"/home/nfs/data/1426659965/1426660480001.jpg","description":"e8b5b6e7b4a7e6af95e4b89a","tags":"快乐八卦","create_time":"1426660482","deadline":"1426746882","remain_time":"10519","school_id":"1","open_enable":"1"}],"count":"10","last_index":"0","my_school_id":"0"}
+I/Lk      (31527): ingShow onDestroy：
+I/Lk      (31527): before findViewById
+I/Lk      (31527): before onCreateActivityFinish
+I/Lk      (31527): currentJid:15620600063====ingJid:15620600063
+I/Lk      (31527): reply===>{"list_ing_content_reply":[{"reply_id":"270","src_user_id":"17718089741","dst_user_id":"0","reply":"E59388E5958AE59388","create_time":"1426735834"},{"reply_id":"271","src_user_id":"15620600063","dst_user_id":"17718089741","reply":"E883A1E8AFB4E585ABE98193E788B8E788B8","create_time":"1426736347"}],"reply_count":"2","last_index":"0","list_fake_table":[{"user_id":"17718089741","fake_name":"xuhe","fake_portrait_url":"/home/nfs/data/1426209118/1426226221011.jpg "},{"user_id":"15620600063","fake_name":"zhansheng","fake_portrait_url":"/home/nfs/data/1426209118/1426209118000.jpg"}],"fake_table_count":"2"}
+I/Lk      (31527): before findViewById
+I/Lk      (31527): before onCreateActivityFinish
+I/Lk      (31527): onCreateActivityFinish：
+I/Lk      (31527): {"list_ing_content":[{"content_id":"196","user_id":"15620600063","content_like_count":"2","my_like":"1","reply_count":"2","picture_url":"/home/nfs/data/1426664022/1426735333034.jpg","description":"E5B8AEE5BF99E782B9E8B59E","tags":"haha","create_time":"1426735500","deadline":"1426821900","remain_time":"85520","school_id":"1","open_enable":"1"},{"content_id":"195","user_id":"18911981981","content_like_count":"1","my_like":"0","reply_count":"3","picture_url":"/home/nfs/data/1426664949/1426674256006.jpg","description":"e7aca6e59088e7bb8fe6b58e","tags":"快乐八卦","create_time":"1426674262","deadline":"1426760662","remain_time":"24282","school_id":"1","open_enable":"1"},{"content_id":"194","user_id":"15600630097","content_like_count":"1","my_like":"0","reply_count":"9","picture_url":"/home/nfs/data/1426664949/1426672799001.jpg","description":"e6b395e59bbde58f82e58aa0e5b7a5e7a88be6acbee8b685e7baa7e5a5bde59083e6849fe8a789","tags":"快乐八卦","create_time":"1426672800","deadline":"1426759200","remain_time":"22820","school_id":"1","open_enable":"1"},{"content_id":"193","user_id":"15620600064","content_like_count":"2","my_like":"0","reply_count":"6","picture_url":"/home/nfs/data/1426664022/1426666629005.jpg","description":"E68891E8A681E5BD93E6A5BCE4B8BB","tags":"haha","create_time":"1426666787","deadline":"1426753187","remain_time":"16807","school_id":"1","open_enable":"1"},{"content_id":"192","user_id":"15600630097","content_like_count":"2","my_like":"0","reply_count":"41","picture_url":"/home/nfs/data/1426662069/1426663343008.jpg","description":"e4bb8ae7949fe4bb8ae4b896e8819ae7b2bee4bc9ae7a59ee8a7a3e586b3","tags":"快乐八卦","create_time":"1426663497","deadline":"1426749897","remain_time":"13517","school_id":"1","open_enable":"1"},{"content_id":"191","user_id":"15600630097","content_like_count":"1","my_like":"0","reply_count":"35","picture_url":"/home/nfs/data/1426662069/1426663326007.jpg","description":"e4bb8ae7949fe4bb8ae4b896e8a7a3e586b3","tags":"快乐八卦","create_time":"1426663485","deadline":"1426749885","remain_time":"13505","school_id":"1","open_enable":"1"},{"content_id":"190","user_id":"18900000000","content_like_count":"1","my_like":"0","reply_count":"3","picture_url":"/home/nfs/data/1426662815/1426663112006.jpg","description":"","tags":"快乐八卦","create_time":"1426663113","deadline":"1426749513","remain_time":"13133","school_id":"1","open_enable":"1"},{"content_id":"189","user_id":"18900000000","content_like_count":"1","my_like":"0","reply_count":"0","picture_url":"/home/nfs/data/1426662815/1426663093005.jpg","description":"","tags":"快乐八卦","create_time":"1426663094","deadline":"1426749494","remain_time":"13114","school_id":"1","open_enable":"1"},{"content_id":"188","user_id":"17718089741","content_like_count":"0","my_like":"0","reply_count":"0","picture_url":"/home/nfs/data/1426662069/1426662691003.jpg","description":"77616974","tags":"haha","create_time":"1426662849","deadline":"1426749249","remain_time":"12869","school_id":"1","open_enable":"1"},{"content_id":"186","user_id":"15600630097","content_like_count":"2","my_like":"0","reply_count":"1","picture_url":"/home/nfs/data/1426659965/1426660480001.jpg","description":"e8b5b6e7b4a7e6af95e4b89a","tags":"快乐八卦","create_time":"1426660482","deadline":"1426746882","remain_time":"10502","school_id":"1","open_enable":"1"}],"count":"10","last_index":"0","my_school_id":"0"}
+D/AndroidRuntime(31674): 
+D/AndroidRuntime(31674): >>>>>> AndroidRuntime START com.android.internal.os.RuntimeInit <<<<<<
+D/AndroidRuntime(31674): CheckJNI is OFF
+D/AndroidRuntime(31674): language=-Duser.language=zh region=-Duser.region=CN
+D/AndroidRuntime(31674): Calling main entry com.android.commands.am.Am
+D/AndroidRuntime(31674): Shutting down VM
+I/Lk      (31527): 收到了通知：{"list_ing_notice" : [{"event_type" : "1","src_user_id" : "17718089741","ing_id" : "196","content" : "E6A8A1E59E8BE68891E68891E68891","ing_img" : "/home/nfs/data/1426664022/1426735333034.jpg","user_img" : "/home/nfs/data/1426209118/1426226221011.jpg ","user_nickname" : "xuhe","create_time" : "1426736427"}]}
+I/Lk      (31527): onSaveInstanceState：Bundle[{STORED_INSTANCE=[com.weix.newapp.leiren.bean.Ing@45bf1750, com.weix.newapp.leiren.bean.Ing@45bfe160, com.weix.newapp.leiren.bean.Ing@45bfe550, com.weix.newapp.leiren.bean.Ing@45c04f48, com.weix.newapp.leiren.bean.Ing@45c0bea8, com.weix.newapp.leiren.bean.Ing@45c0c288, com.weix.newapp.leiren.bean.Ing@45c0fb30, com.weix.newapp.leiren.bean.Ing@45c15bd8, com.weix.newapp.leiren.bean.Ing@45c15fc8, com.weix.newapp.leiren.bean.Ing@45c1c748]}]
+I/Lk      (31527): 收到了通知：{"list_ing_notice" : [{"event_type" : "1","src_user_id" : "17718089741","ing_id" : "196","content" : "E69DA5E592AFE5BC84","ing_img" : "/home/nfs/data/1426664022/1426735333034.jpg","user_img" : "/home/nfs/data/1426209118/1426226221011.jpg ","user_nickname" : "xuhe","create_time" : "1426736445"}]}
