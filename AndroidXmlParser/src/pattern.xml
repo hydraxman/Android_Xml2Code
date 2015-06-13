@@ -8,7 +8,7 @@
 			holder=new ViewHolder();
 			#%inflateView%#
 			#%holderFindViewById%#
-			view.setTag(holder);
+			convertView.setTag(holder);
 		} else {
 			holder = (ViewHolder) convertView.getTag();
 		}
