@@ -1,0 +1,13 @@
+{
+	"fieldString":"\t public String #%fieldName%#;\n",
+	"fieldObj":"\t public #%className%# #%fieldName%#;\n",
+	"fieldBool":"\t public Boolean #%fieldName%#;\n",
+	"fieldStringList":"\t public ArrayList<String> #%fieldName%#;\n",
+	"fieldObjList":"\t public ArrayList<#%className%#> #%fieldName%#;\n",
+	"class":
+"public class #%className%#{
+#%fieldDeclarations%#
+	public #%className%#(){}
+}
+"
+}

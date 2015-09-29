@@ -32,8 +32,10 @@ import com.mrbu.androidxmlparser.Const;
 import com.mrbu.androidxmlparser.domain.Operation;
 import com.mrbu.androidxmlparser.log.LogCatReader;
 import com.mrbu.androidxmlparser.parser.AndroidXmlParser;
+import com.mrbu.androidxmlparser.parser.Json2BeanParser;
 
 public class DragAndShowFrame extends JFrame {
+	private static final String TEXT_GEN_CODE = "drag file here and then codes will be generated here";
 	private static final String LOG_TAG_REMIDER = "Lk";
 	private static final String REMINDER = "此处可设置父控件名字";
 	private static final String REMINDER_CLASSNAME = "此处可设置监听器类的名字";
@@ -62,6 +64,18 @@ public class DragAndShowFrame extends JFrame {
 	private LogCatReader logcat;
 	private String newLine = "\n\r";
 	private JPanel panelInLogSouth;
+	private JPanel panel1ForBeanGen;
+	private JPanel panelGenTaZone;
+	private JPanel panelCbZone;
+	private TextArea taBeanGen;
+	private CheckboxGroup cbgBeanGen;
+	private Checkbox cbForLayoutBeanGen;
+	private Checkbox cbForListViewBeanGen;
+	private Checkbox cbForItemViewBeanGen;
+	private Checkbox cbForListenerBeanGen;
+//	private TextField tfClassnameBean;
+	private JComboBox<String> jcbBeanGen;
+	private Button btnBeanGen;
 
 	public DragAndShowFrame() {
 		font = new Font(null, Font.BOLD | Font.ITALIC, 15);
@@ -69,9 +83,55 @@ public class DragAndShowFrame extends JFrame {
 		initForCode();
 		initForStyle();
 		initForLog();
+		initForBeanGenerator();
 		initTabs();
 		drag();
 		initThis();
+	}
+
+	private void initForBeanGenerator() {
+		panel1ForBeanGen = new JPanel();
+		panelGenTaZone = new JPanel();
+		panelCbZone = new JPanel();
+		taBeanGen = new TextArea("{\"test\":\"testJson\"}",
+				21, 75);
+		taBeanGen.setEditable(true);
+		taBeanGen.setFont(font);
+
+		panel1ForBeanGen.setBackground(Color.YELLOW);
+		panel1ForBeanGen.add(taBeanGen, BorderLayout.CENTER);
+		cbgBeanGen = new CheckboxGroup();
+
+		cbForLayoutBeanGen = new Checkbox("for Layout View", cbg, true);
+		cbForListViewBeanGen = new Checkbox("for ListView", cbg, false);
+		cbForItemViewBeanGen = new Checkbox("for Item View", cbg, false);
+
+		cbForListenerBeanGen = new Checkbox("Generate Listener");
+		panelGenTaZone.setLayout(new BorderLayout());
+//		tfClassnameBean = new TextField(REMINDER_CLASSNAME, 48);
+		jcbBeanGen = new JComboBox<String>();
+		jcbBeanGen.setEditable(true);
+		jcbBeanGen.addItem("ClassNameShouldBeEnteredHere");
+		jcbBeanGen.addItem("Root");
+		jcbBeanGen.addItem("JavaBean");
+
+		panelGenTaZone.add(jcbBeanGen, BorderLayout.NORTH);
+//		panelGenTaZone.add(tfClassnameBean, BorderLayout.CENTER);
+		panelCbZone.add(cbForLayoutBeanGen);
+		panelCbZone.add(cbForListViewBeanGen);
+		panelCbZone.add(cbForItemViewBeanGen);
+		panelCbZone.add(cbForListenerBeanGen);
+		btnBeanGen = new Button("BeanGen");
+		panelCbZone.add(btnBeanGen);
+		btnBeanGen.addActionListener(new ActionListener() {
+			@Override
+			public void actionPerformed(ActionEvent arg0) {
+				String json = taBeanGen.getText();
+				taBeanGen.setText(Json2BeanParser.parseJson(json.trim(),jcbBeanGen.getEditor().getItem().toString()));
+			}
+		});
+		panelGenTaZone.add(panelCbZone, BorderLayout.SOUTH);
+		panel1ForBeanGen.add(panelGenTaZone, BorderLayout.SOUTH);
 	}
 
 	private void initForLog() {
@@ -124,7 +184,7 @@ public class DragAndShowFrame extends JFrame {
 		panelBottom2 = new JPanel();
 		panelCodeCenter = new JPanel();
 		tfClassname = new TextField(REMINDER_CLASSNAME, 48);
-		taCode = new TextArea("drag file here and then codes will be shown",
+		taCode = new TextArea(TEXT_GEN_CODE,
 				21, 75);
 		taCode.setEditable(false);
 		taCode.setFont(font);
@@ -167,6 +227,7 @@ public class DragAndShowFrame extends JFrame {
 
 	private void initTabs() {
 		tab.add("代码生成", panel1ForCode);
+		tab.add("json2Bean", panel1ForBeanGen);
 		tab.add("样式抽取", panel2ForStyle);
 		tab.add("输出Log", panel3ForLog);
 		getContentPane().add(tab, BorderLayout.CENTER);
